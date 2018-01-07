@@ -42,11 +42,9 @@ I initially looked at 10 random images obtained from the training dataset to get
 
 ![alt text][image1]
 
-I then plotted a bar plot for the data distribution across all the 43 classes. The bar plot was quite informative on what kind of results can be expected after training the model [which I will
-discuss later].
+I then plotted a bar plot for the data distribution across all the 43 classes. The bar plot was quite informative on what kind of results can be expected after training the model 
 
 ![alt text][image2]
-###Design and Test a Model Architecture
 
 ####1. Describe how, and identify where in your code, you preprocessed the image data. What techniques were chosen and why did you choose these techniques? Consider including images showing the output of each preprocessing technique. Pre-processing refers to techniques such as converting to grayscale, normalization, etc.
 
