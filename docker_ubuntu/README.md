@@ -1,4 +1,4 @@
-###Testing
+Testing
 
 1. Launch AWS m4.2xlarge Instance (ami-01f05461) with appropriate Security Group (I used https://gist.github.com/iamatypeofwalrus/5183133 for reference). 
  
